@@ -15,7 +15,6 @@ namespace Program
 
             for (int i = 0; i < AntalHeltal; i++)
             {
-                //Console.Write("Tal " + (i + 1) + " : ");
                 Heltal[i] = Convert.ToInt32(Console.ReadLine());
             }
 
